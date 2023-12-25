@@ -1,5 +1,5 @@
 while True:
-    print("-------Menu-------")
+    print("-------String---Menu-------")
     print("1. len() 2.title() 3.lower() 4.upper() 5.Count() 6.find()")
     print("7.index() 8.endswith() 9.startswith() 10.isalnum() 11.islower() 12.isupper()")
     print("13.lstrip() 14.rstrip() 15.replace() 16.join() 17.partition() 18.split()")
